@@ -1,0 +1,20 @@
+{
+  "typeCheckingMode": "basic",
+  "reportUnknownVariableType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownLambdaType": false,
+  "reportGeneralTypeIssues": false,
+  "reportUntypedFunctionDecorator": "none",
+  "reportUntypedClassDecorator": "none",
+  "reportUntypedFunction": false,
+  "reportUntypedNamedTuple": false,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.11",
+  "exclude": [
+    "**/__pycache__",
+    "**/.venv"
+  ]
+}
